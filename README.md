@@ -83,7 +83,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - [Discord Server](https://discord.gg/std)
-- [Youtube Explanation](https://youtu.be/B99UWEiDLzI?si=orAO8G9koIyT-JDU)
+- [Youtube Explanation](https://youtu.be/nZrGZTTsBC8?si=V9yUsYYNond0RqBy)
 - [GitHub Repository](https://github.com/StarDeveloper2/Discord-ViurasTotal-Bot)
 
 ## ⭐ Credits
